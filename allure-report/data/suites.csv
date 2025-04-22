@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Apr 17 14:44:53 EAT 2025","Thu Apr 17 14:45:13 EAT 2025","19363","chromium","example.spec.ts","","","","has title",""
+"broken","Thu Apr 17 14:44:53 EAT 2025","Thu Apr 17 14:45:23 EAT 2025","30144","chromium","login.spec.ts","","","","Login success",""
+"broken","Thu Apr 17 14:44:53 EAT 2025","Thu Apr 17 14:45:24 EAT 2025","30210","chromium","mainTest.spec.ts","","","","Upload file",""
+"passed","Thu Apr 17 14:44:53 EAT 2025","Thu Apr 17 14:45:20 EAT 2025","26361","chromium","example.spec.ts","","","","get started link",""
